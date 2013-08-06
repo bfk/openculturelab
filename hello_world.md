@@ -9,7 +9,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ![Europeana Logo](/media/logo_English_Apples.png)
 
-![Ampersand](/media/IMG_1329.PNG)
+![Logo (gif)](/media/logo_English_Apples.gif)
 
 <!-- start slipsum code -->
 
