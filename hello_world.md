@@ -7,6 +7,8 @@ published: true
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
+[Europeana Professional](http://pro.europeana.eu "Pro")
+
 ![Logo](/media/logo_English_Apples.png)
 
 <!-- start slipsum code -->
